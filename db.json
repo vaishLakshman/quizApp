@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "firstName": "Robin",
+      "lastName": "Mathew",
+      "password": "robin123",
+      "email": "",
+      "username": "robin.m",
+      "totalGames": 20,
+      "winPercent": 50,
+      "totalGrade": "B",
+      "currentGame": {
+        "questions": 10,
+        "correctAnswers": 5,
+        "category": "General Knowledge",
+        "difficulty": "Beginner"
+      }
+    },
+    {
+      "id": 1,
+      "firstName": "Surabhi",
+      "lastName": "Sudhi",
+      "password": "surabhi123",
+      "email": "surabhi@gmail.com",
+      "username": "surabhi.s",
+      "totalGames": 22,
+      "winPercent": "45.46",
+      "totalGrade": "D",
+      "currentGame": {
+        "questions": 7,
+        "correctAnswers": 5,
+        "category": "General Knowledge",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": 2,
+      "firstName": "Vaishnav",
+      "lastName": "Lakshman",
+      "password": "vaishnav123",
+      "email": "",
+      "username": "vaishnav.cc",
+      "totalGames": 23,
+      "winPercent": "43.48",
+      "totalGrade": "D",
+      "currentGame": {
+        "questions": 5,
+        "correctAnswers": 2,
+        "category": "Science &amp; Nature",
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": 3,
+      "firstName": "Sharan",
+      "lastName": "Kumar",
+      "password": "sharan123",
+      "email": "",
+      "username": "sharan.kumar",
+      "totalGames": 1,
+      "winPercent": "0.00",
+      "totalGrade": "D",
+      "currentGame": {
+        "questions": 5,
+        "correctAnswers": 1,
+        "category": "General Knowledge",
+        "difficulty": "Easy"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "index": 1,
+      "answer": "Spanish",
+      "id": 1
+    },
+    {
+      "index": 2,
+      "answer": "United States of America",
+      "id": 2
+    },
+    {
+      "index": 3,
+      "answer": "Benjamin Franklin",
+      "id": 3
+    },
+    {
+      "index": 4,
+      "answer": "Lift",
+      "id": 4
+    },
+    {
+      "index": 5,
+      "answer": "December 25, 2007",
+      "id": 5
+    }
+  ]
+}
